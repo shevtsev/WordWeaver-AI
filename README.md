@@ -1,5 +1,9 @@
-<h1>WordWeaver-AI нейросеть для редактирования текстов</h1>
-<p>Основана на модели Llama2-7b, создана для редактирования текстов написанных ChatGPT3.5, ChatGPT4 для дальнейшего коммерческого использования.</p>
-<p>В prompt находится ваш запрос, который вы хотите задать, также можно изменить количество выдаваемых слов в max_length(по умолчанию 500)</p>
-<p>Сама нейросеть находится у меня в профиле 🤗Hugging Face, там же есть и датасет, на основе которого я дообучал нейросеть.</p>
-<h3>Приятного пользования 😊</h3>
+<h1>WordWeaver-AI - a neural network for text editing</h1>
+
+<p>Based on the Llama2-7b model, created for editing texts written by ChatGPT3.5, ChatGPT4 for further commercial use.</p>
+
+<p>The prompt contains your request that you want to ask, you can also change the number of words in max_length (default is 500).</p>
+
+<p>The neural network itself is in my profile on 🤗Hugging Face, where the dataset on which I retrained the neural network is also available.</p>
+
+<h3>Enjoy using it 😊</h3>
